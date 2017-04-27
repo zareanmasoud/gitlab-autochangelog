@@ -31,4 +31,4 @@ $ autochangelog -h
 
 License
 -------
-MIT license (© 2015 Roshan Wu)
+MIT license (© 2017 Masoud Zarean)
