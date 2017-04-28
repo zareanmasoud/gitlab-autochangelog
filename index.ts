@@ -1,4 +1,4 @@
-#!/usr/bin/env node --harmony
+#!/usr/bin/node --harmony
 
 interface IConfig {
   host: string

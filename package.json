@@ -16,6 +16,7 @@
   "preferGlobal": true,
   "main": "index.js",
   "dependencies": {
+    "@types/node": "^7.0.14",
     "commander": "^2.9.0",
     "jsonfile": "^2.2.3",
     "progress": "^1.1.8",
@@ -24,6 +25,7 @@
     "semver": "^5.1.0"
   },
   "devDependencies": {
+    "@types/node": "^7.0.14",
     "tslint": "^3.11.0",
     "tslint-stylish": "^2.1.0-beta",
     "typescript": "^1.8.10"
